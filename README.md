@@ -43,7 +43,7 @@
 
 <h2>Kết luận, hướng phát triển và các điều tâm đắc rút ra được sau khi hoàn thiện chương trình</h2>  
     <ul>                                        
-    <li>Game khá hoàn thiện chức năng cơ bản,tự đánh giá tầm 8. </li>
+    <li>Game khá hoàn thiện chức năng cơ bản,tự đánh giá 8 đ. </li>
     <li>Game e cần bổ sung phần điểm số, đồng thời tạo thêm nhiều bản đồ hơn cho game,có thể tích hợp chế độ nhiều người chơi.</li>
     <li>Sau khi làm game e học được cách xây dựng 1 project nhỏ,tăng kĩ năng sử dụng con trỏ, vector,và quan trọng hơn nhất là cách tổ chức xử lí chức năng riêng bằng hàm.</li>
     </ul>
